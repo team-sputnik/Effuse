@@ -8,3 +8,4 @@ Minimalist chat client
     - Remind me
     - Viewed / mark as read
 - Emoji flattening
+- '/' commands i.e. /secret prevents saving that particular message
