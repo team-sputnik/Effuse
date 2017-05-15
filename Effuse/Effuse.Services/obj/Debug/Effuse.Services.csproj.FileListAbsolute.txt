@@ -1,0 +1,7 @@
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\bin\Debug\Effuse.Services.dll
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\bin\Debug\Effuse.Services.pdb
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\bin\Debug\Effuse.Models.dll
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\bin\Debug\Effuse.Models.pdb
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\obj\Debug\Effuse.Services.csprojResolveAssemblyReference.cache
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\obj\Debug\Effuse.Services.dll
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Services\obj\Debug\Effuse.Services.pdb

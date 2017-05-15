@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace Effuse
+﻿namespace Effuse
 {
     internal class Program
     {

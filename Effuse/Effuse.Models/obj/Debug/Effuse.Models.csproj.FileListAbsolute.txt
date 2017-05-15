@@ -1,0 +1,4 @@
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Models\bin\Debug\Effuse.Models.dll
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Models\bin\Debug\Effuse.Models.pdb
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Models\obj\Debug\Effuse.Models.dll
+C:\Users\Richie\Source\Repos\Effuse\Effuse\Effuse.Models\obj\Debug\Effuse.Models.pdb
